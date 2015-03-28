@@ -1,0 +1,1 @@
+<?php echo "Hello Wp_Api_Eloquent"; exit()?>
